@@ -1,0 +1,13 @@
+{
+  "name": "aviasurf",
+  "version": "1.0.0",
+  "description": "Search and compare flight prices, explore price calendars, compare airports, and discover destinations with Aviasurf.",
+  "repository": "https://github.com/aviasurf/aviasurf-gemini-extension",
+  "mcpServers": {
+    "aviasurf": {
+      "httpUrl": "https://mcp.aviasurf.com/mcp",
+      "timeout": 30000
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
