@@ -1,5 +1,7 @@
 # Aviasurf for Gemini CLI
 
+[![M8ven Score](https://m8ven.ai/badge/mcp/aviasurf-aviasurf-gemini-extension-101w0n?v=e5baaab713f77edfd4dafe8abe3096ee)](https://m8ven.ai/mcp/aviasurf-aviasurf-gemini-extension-101w0n?s=readme)
+
 Official Aviasurf extension for Gemini CLI.
 
 Use Aviasurf to search and compare indicative flight prices, explore price calendars, compare airports, discover destinations, inspect routes, and continue to live flight search.
